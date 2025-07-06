@@ -66,6 +66,11 @@ The Analysis result are summarized as follows:
 8. Most products had ratings between 3–5.
 9. Electronics led with the highest estimated revenue of about 59179753425.
 10. Most products fall under the premium_pricing in the >₦500 tier.
+11. There is a slight positive trend between discount and product rating, highly discounted products tend to receive higher ratings.
+12. 326 products had under 1,000 reviews.
+13. HomeImprovement and computer&accessories offered the biggest average discounts.
+14. Products like "USB Cable", "SmartPhone", "SmartWatches", SmartTelevision" and Cables scored highest in quality + popularity.
+
 
 
 
