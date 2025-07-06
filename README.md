@@ -1,4 +1,4 @@
-# DSA_Amazon_Case_study
+rrrdf5bc # DSA_Amazon_Case_study
 
 ### project Overview
 This project showcases my data analysis skills using a real world e-commerce dataset scraped from Amazon product listings. As a Junior Data Analyst at RetailTech Insights, I explored product details and customer engagement data to extract valuable insights that inform product strategy, marketing decisions, and customer satisfaction.
@@ -8,7 +8,7 @@ Amazon Data: The primary dataset is "Amazon case Study.xlsx"
 
 ### Dataset Overview
 Source: Amazon scraped product pages
-
+xdfcf5v3
 Records: 10,000+ rows
 
 Fields: Product Name, Category, Price, Discount, Ratings, Review Count, Review Titles/Content
@@ -70,6 +70,35 @@ The Analysis result are summarized as follows:
 12. 326 products had under 1,000 reviews.
 13. HomeImprovement and computer&accessories offered the biggest average discounts.
 14. Products like "USB Cable", "SmartPhone", "SmartWatches", SmartTelevision" and Cables scored highest in quality + popularity.
+
+### Recommendation
+1. Focus Marketing on Electronics and High-Performing Products
+- Since Electronics has the highest review volume, most products, and the highest estimated revenue, it should be prioritized for marketing campaigns, inventory expansion, and promotional strategies.
+
+- Promote top-performing products like SmartPhones, SmartWatches, SmartTelevisions, and USB Cables to maximize visibility and sales.
+
+2. Leverage Discount Strategy to Boost Ratings and Sales
+- There's a positive trend between discounts and product ratings, meaning higher discounts may improve customer perception.
+- HomeImprovement and Computer & Accessories had the highest average discounts —these categories can be used to pilot aggressive pricing campaigns.
+
+3. Expand Product Range in High-Traffic Categories
+- Categories such as Electronics, Computer & Accessories, and Home & Kitchen host the most products and engagement.
+- Continue diversifying product listings in these categories to meet demand and maintain competitive advantage.
+
+4. Highlight and Upsell Highly Rated Products
+- Products like SurgeProtectors, StreamingClients, Airfryers, and CordManagement devices had the highest ratings (4.5).
+- Position these as "Best Rated" or "Customer Favorites" to drive conversions and trust.
+
+5. Optimize Pricing for Premium Segments
+- A majority of products fall under the >₦500 premium pricing tier. Ensure pricing aligns with customer value perception by bundling, offering loyalty discounts, or emphasizing quality in marketing.
+
+6. Improve Visibility for Underrated Products
+- 326 products had fewer than 1,000 reviews which may affect trust and sales.
+- Use incentives like early reviews, referral rewards, or sampling programs to boost engagement on these products.
+
+7. Monitor and Scale What Works
+- Track performance of high-discount + high-rating products to find your "sweet spot" for discounting without sacrificing profit.
+- Reinvest in scaling top products that combine popularity (high reviews) and quality (high ratings).
 
 
 
