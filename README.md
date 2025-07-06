@@ -2,15 +2,15 @@
 
 ## Table Of Content
 - [Project Overview](#Project-Overview)
-- [Data Source](#Data Source)
-- [Dataset Overview](#Dataset Overview)
+- [Data Source](#Data-Source)
+- [Dataset Overview](#Dataset-Overview)
 - [Tools](#Tools)
-- [Data Cleaning/Preparation](#Data Cleaning/Preparation)
-- [Exploratory Data  Analysis](#Exploratory Data  Analysis)
-- [Data Analysis](#Data Analysis)
+- [Data Cleaning/Preparation](#Data-Cleaning/Preparation)
+- [Exploratory Data  Analysis](#Exploratory-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
 - [Result/Findings](#Result/Findings)
 - [Recommendation](#Recommendation)
-- [ Limitations](# Limitations)
+- [ Limitations](#Limitations)
 
 ### Project Overview
 This project showcases my data analysis skills using a real world e-commerce dataset scraped from Amazon product listings. As a Junior Data Analyst at RetailTech Insights, I explored product details and customer engagement data to extract valuable insights that inform product strategy, marketing decisions, and customer satisfaction.
