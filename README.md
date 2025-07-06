@@ -6,7 +6,7 @@
 - [Dataset Overview](#Dataset-Overview)
 - [Tools](#Tools)
 -[Data Cleaning/Preparation](#data-cleaningpreparation)
-- [Exploratory Data  Analysis](#Exploratory-Data-Analysis)
+- [Exploratory Data  Analysis](#Exploratory-DataAnalysis)
 - [Data Analysis](#Data-Analysis)
 - [Result/Findings](#Result/Findings)
 - [Recommendation](#Recommendation)
