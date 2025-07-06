@@ -8,10 +8,12 @@ Amazon Data: The primary dataset is "Amazon case Study.xlsx"
 
 ### Dataset Overview
 Source: Amazon scraped product pages
+
 Records: 10,000+ rows
+
 Fields: Product Name, Category, Price, Discount, Ratings, Review Count, Review Titles/Content
 
-###
+### Tools
 - Power Qury - Data Cleaning
 - Excel - Dashboard
 
@@ -53,5 +55,18 @@ EDA involved exploring the data to answer key question, such as:
 ```
 
 ### Result/Findings
+The Analysis result are summarized as follows:
+1. HomeImprovement, Computer$Accessories, and Health&PersonalCare categories had the highest average discounts.
+2. Categories like Electronics and Computer&Accessories and Home$kitchen had the most products respectively.
+3. Electronics had the highest review volume.
+4. Most rated Product were SurgeProtector, StreamingClient, CordManagement and Airfryer with 4.5 rating.
+5. Electronics had the highest price difference.
+6. USBCables has the heighest reviewed with 223 reviews.
+7. 53 products had discounts of 50% or more.
+8. Most products had ratings between 3–5.
+9. Electronics led with the highest estimated revenue of about 59179753425.
+10. Most products fall under the premium_pricing in the >₦500 tier.
+
+
 
   
