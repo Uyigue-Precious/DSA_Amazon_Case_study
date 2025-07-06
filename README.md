@@ -2,6 +2,15 @@
 
 ## Table Of Content
 - [Project Overview](#Project-Overview)
+- [Data Source](#Data Source)
+- [Dataset Overview](#Dataset Overview)
+- [Tools](#Tools)
+- [Data Cleaning/Preparation](#Data Cleaning/Preparation)
+- [Exploratory Data  Analysis](#Exploratory Data  Analysis)
+- [Data Analysis](#Data Analysis)
+- [Result/Findings](#Result/Findings)
+- [Recommendation](#Recommendation)
+- [ Limitations](# Limitations)
 
 ### Project Overview
 This project showcases my data analysis skills using a real world e-commerce dataset scraped from Amazon product listings. As a Junior Data Analyst at RetailTech Insights, I explored product details and customer engagement data to extract valuable insights that inform product strategy, marketing decisions, and customer satisfaction.
@@ -103,7 +112,7 @@ The Analysis result are summarized as follows:
 - Track performance of high-discount + high-rating products to find your "sweet spot" for discounting without sacrificing profit.
 - Reinvest in scaling top products that combine popularity (high reviews) and quality (high ratings).
 
-###Limitations
+### Limitations
 I had to remove columns not neccessary for my analysis such as About_Product, user_id, User_name,, Review_content, Review_title, Img_link and product_link. 
 
 
