@@ -15,7 +15,7 @@
 ### Project Overview
 This project showcases my data analysis skills using a real world e-commerce dataset scraped from Amazon product listings. As a Junior Data Analyst at RetailTech Insights, I explored product details and customer engagement data to extract valuable insights that inform product strategy, marketing decisions, and customer satisfaction.
 
-![Dashboard]
+### Dashboard
 <img width="626" alt="AmazonCaseStudy" src="https://github.com/user-attachments/assets/e121dbef-ed3a-49a1-a73d-31817a8bbc81" />
 
 ### Data Source
